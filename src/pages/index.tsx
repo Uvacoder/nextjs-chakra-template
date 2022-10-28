@@ -15,7 +15,7 @@ const Home: FC = () => {
                 background="blue.600"
                 borderRadius="0.5rem"
                 color="white"
-                href="https://github.com/avneesh0612/next-chakra"
+                href="https://github.com/uvacoder/nextjs-chakra-template"
                 isExternal
                 marginTop="1rem"
                 padding="0.5rem 1rem"
